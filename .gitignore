@@ -1,0 +1,7 @@
+venv/
+
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore data files
+*.csv
