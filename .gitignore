@@ -4,4 +4,4 @@ venv/
 .ipynb_checkpoints/
 
 # ignore data files
-#*.csv
+*.csv
