@@ -4,7 +4,7 @@ This project uses machine learning to detect exoplanets from flux measurements c
 
 ## Datset
 
-The dataset used for this project was labelled time series data, found on [Kaggle](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data/data):
+The dataset used for this project contained labelled time series data, and can be found on [Kaggle](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data/data):
 
 - Flux measurements for 5087 training stars and 570 test stars
 - Binary classification: has exoplanet (class 2) vs. no exoplanet (class 1)
